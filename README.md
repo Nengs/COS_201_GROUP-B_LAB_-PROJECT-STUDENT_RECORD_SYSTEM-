@@ -32,6 +32,6 @@ Each student record includes:
    gcc -o student_db student_record_system.c
 2. Run the program:
 ```bash
-./student_db
+./Student_Record_SYS_db
 
 
